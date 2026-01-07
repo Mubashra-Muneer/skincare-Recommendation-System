@@ -61,8 +61,5 @@ Skin Meta is an intelligent skincare application that delivers personalized skin
 ## Project Context
 Skin Meta was developed as part of the **Software Engineering course (CS2004)**, following structured user stories, acceptance criteria, and iterative development practices. The project focuses on delivering a real-world, personalized skincare solution using intelligent systems and backend integrations.
 
-## Project Status
-All planned features for the current sprint have been successfully implemented.
-
 ## License
 This project is developed for academic and educational purposes.
